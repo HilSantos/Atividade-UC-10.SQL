@@ -1,4 +1,4 @@
-# Atividade-UC-10
+# Atividade-UC-10 SQL
 Exercicio do dia 11/03/25
 
 1. Selecione todos os alunos e seus respectivos cursos.
